@@ -1,0 +1,17 @@
+.display {
+  background-color: white;
+  height: 80px;
+  width: 150px;
+  display: inline-block;
+  line-height: 80px;
+  margin: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.display-negative {
+  background-color: red;
+}
+
+.display-positive {
+  background-color: green;
+}
